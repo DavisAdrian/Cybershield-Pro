@@ -2,7 +2,7 @@
 """
 CyberShield Pro - Real-Time Security Feed WebSocket Server
 A Flask-SocketIO server that provides real-time security events to the frontend.
-
+ 
 Installation:
 pip install flask flask-socketio flask-cors
 
