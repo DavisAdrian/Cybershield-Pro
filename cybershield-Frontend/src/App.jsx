@@ -19,7 +19,7 @@ import {
   Wifi
 } from 'lucide-react';
 import './App.css';
-
+ 
 // Security Configuration - Critical security parameters
 const SECURITY_CONFIG = {
   MAX_LOGIN_ATTEMPTS: 3,
