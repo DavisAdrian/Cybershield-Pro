@@ -44,8 +44,8 @@ It demonstrates key **secure coding practices**, **real-time attack visualizatio
 
 - **React (Hooks + Functional Components)**
 - **Javascript**
-- **Python (Backend functionality)**
-- **Flask (Backend functionality)**
+- **Node.js**
+- **Python (Flask Backend)**
 - **Lucide Icons** for modern security-theme.
 - **Custom CSS** with dark mode support.
 - **LocalStorage & SessionStorage** for state persistence.
